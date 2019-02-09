@@ -150,7 +150,7 @@ Table for two
 
 Images
 ------
-Located in this repository: [Some QR code](http://./qr.png "Optional title")
+Located in this repository: ![Some QR code](qr.png?raw=true "Optional title")
 
 Crazy linking action
 --------------------
