@@ -148,6 +148,10 @@ Table for two
   </tr>
 </table>
 
+Images
+------
+Located in this repository: [Some QR code](http://./qr.png "Optional title")
+
 Crazy linking action
 --------------------
 
